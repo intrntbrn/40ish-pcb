@@ -2963,6 +2963,9 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/a2ed4ce2-5173-4f83-82e0-d2d7bf83a9c2"
       (reference "D64") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/10339297-8bb5-4efb-b5e8-2ab8f500dd94"
+      (reference "D65") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/00000000-0000-0000-0000-00005f2505eb"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
     )
@@ -3172,6 +3175,9 @@
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/0b2b79d8-fae7-474d-a56b-6eb8d24b2477"
       (reference "MX74") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/a7c93c3a-45da-48a8-9c0d-5b554c0e4063"
+      (reference "MX75") (unit 1) (value "2u") (footprint "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f258c77"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
