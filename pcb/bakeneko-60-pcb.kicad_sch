@@ -3020,9 +3020,6 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497445"
       (reference "MX15") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970b1"
-      (reference "MX16") (unit 1) (value "2u") (footprint "MX_Only:MXOnly-2U-NoLED")
-    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497077"
       (reference "MX17") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
