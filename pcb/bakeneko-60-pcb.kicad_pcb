@@ -7249,7 +7249,7 @@
       (xy 9.475531 -6.382929)
       (xy 59.693314 -6.382929)
     ) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp e6c32500-66a0-4f4b-b0b9-a395d06f10b3))
-  (gr_text "40-ish by InternetbaroN" (at 274.915477 91.907501) (layer "B.SilkS") (tstamp 1e942b67-8f8d-4cfa-ab60-9a60beac6d48)
+  (gr_text "40-ish by InternetbaroN v1.0" (at 143.46 56.63) (layer "B.SilkS") (tstamp 1e942b67-8f8d-4cfa-ab60-9a60beac6d48)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
 
